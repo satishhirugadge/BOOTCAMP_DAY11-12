@@ -26,7 +26,7 @@ while not game_over:
         user_num=int(input("Guess your lucky number between 1 to 20??? :"))
         counter=counter+1
         if counter==4:  
-            print("Five wrong Guess!!! You ar out")
+            print("Five wrong Guess!!! You ar out Game Ove!!!")
             break
         
 
